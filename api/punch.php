@@ -1,3 +1,4 @@
+<?php
 $url = array(
 "https://img-cdn.2game.vn/pictures/images/2016/5/30/onehit_30_5_2016_1.GIF",
 "https://img-cdn.2game.vn/pictures/images/2016/5/30/onehit_30_5_2016_3.GIF",
