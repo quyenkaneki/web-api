@@ -28,7 +28,6 @@ $url = array(
 "https://i.imgur.com/0KslBt5.mp4",
 "https://i.imgur.com/IJ8Ot9f.mp4",
 "https://i.imgur.com/LSGdq0W.mp4",
-"https://i.imgur.com/ljBpjF5.mp4",
 );
 $kaneki = array_rand($url);
 $kanekivip = $url [$kaneki];
