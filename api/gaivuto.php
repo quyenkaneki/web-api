@@ -85,6 +85,10 @@ $url = array(
 "https://i.postimg.cc/mrdpMbmW/ngoc-nhi-hot-girl-viet-nam-thich-khoe-nguc-hinh-5.jpg",
 "https://i.postimg.cc/3wrbdyCZ/nong-luu-thao-my-nhan-khoe-nguc-nong-bong-16.jpg",
 "https://i.postimg.cc/pTpGJgSh/Tu-My-Tam-hot-girl-livestream-vu-to-nguc-khung-1-731x1024.jpg",
+"https://i.postimg.cc/mrZGZPkp/272342320-459592322538710-80860558192067909-n.jpg",
+"https://i.postimg.cc/LsyFJmZ9/272426991-459592312538711-6302711104013004905-n.jpg",
+"https://i.postimg.cc/gJnFR1vv/272799584-468642961309366-4347060260938977424-n.jpg",
+"https://i.postimg.cc/XJmMgx8t/272890368-677452346773620-245878717783277548-n.jpg",
 );
 $kaneki = array_rand($url);
 $kanekivip = $url [$kaneki];
