@@ -102,6 +102,19 @@ $url = array(
 "https://i.postimg.cc/SQft4fpv/vietxinh.jpg",
 "https://i.postimg.cc/15R73Vm5/xem-anh-gai-khoe-vu-khoe-lon-sieu-dep-hinh-anh-1.jpg",
 "https://i.postimg.cc/zXdtbDvw/XIUREN-Selena-29.jpg",
+"https://i.postimg.cc/63Gn851n/272577216-276403431251516-6343584398762189533-n.jpg",
+"https://i.postimg.cc/WzLrgLQK/272671495-1241412723035795-9195844367891217498-n.jpg",
+"https://i.postimg.cc/90d9Bg2f/272802776-621298232426271-4124165514606854784-n.jpg",
+"https://i.postimg.cc/SQCcqR9p/272827324-1007385633197070-5299783413151420180-n.jpg",
+"https://i.postimg.cc/NfxT9nbJ/272835329-1134422637333156-4276352190230366816-n.jpg",
+"https://i.postimg.cc/DwjX5b91/272855911-474341894244419-1105763270900142412-n.jpg",
+"https://i.postimg.cc/MGnjLpwN/272925236-326822549369817-5871926969545855049-n.jpg",
+"https://i.postimg.cc/g016bbkJ/272973918-674277870433884-500885238125974100-n.jpg",
+"https://i.postimg.cc/rmWR8ZK9/272982310-250719273888359-6510258015792626658-n.jpg",
+"https://i.postimg.cc/cCSg673G/273001709-1136121110496642-6503387218834250565-n.jpg",
+"https://i.postimg.cc/yxyJRJhg/273050458-298660462253626-5302895800734116456-n.jpg",
+"https://i.postimg.cc/zXqHrj5n/273295661-682238796294975-158158983093032135-n.jpg",
+"https://i.postimg.cc/pXkhXFX3/273551880-1440159726399857-2169066178363596850-n.jpg",
 );
 $kaneki = array_rand($url);
 $kanekivip = $url [$kaneki];
