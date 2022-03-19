@@ -14,7 +14,7 @@
     <meta content='https://i.imgur.com/K7jN1t9.jpeg' property='og:image' />
     <meta content='website' property='og:type' />
     <link rel="dns-prefetch" href="//github" >
-    <link rel="dns-prefetch" href="https://quyenkaneki-api.herokuapp.com/" >
+    <link rel="dns-prefetch" href="https://imgapicongquyen.herokuapp.com/" >
     <link rel="dns-prefetch" href="//cdn.jsdelivr.net" >
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ngocminhvn/all/snow.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.min.css"/>
@@ -249,15 +249,15 @@
                     }
                 }
             }, shortcut.add("Ctrl+U", function() {
-                top.location.href = "https://quyenkaneki-api.herokuapp.com"
+                top.location.href = "https://imgapicongquyen.herokuapp.com/"
             }), shortcut.add("F12", function() {
-                top.location.href = "https://quyenkaneki-api.herokuapp.com"
+                top.location.href = "https://imgapicongquyen.herokuapp.com/"
             }), shortcut.add("Ctrl+Shift+I", function() {
-                top.location.href = "https://quyenkaneki-api.herokuapp.com"
+                top.location.href = "https://imgapicongquyen.herokuapp.com/"
             }), shortcut.add("Ctrl+S", function() {
-                top.location.href = "https://quyenkaneki-api.herokuapp.com"
+                top.location.href = "https://imgapicongquyen.herokuapp.com/"
             }), shortcut.add("Ctrl+Shift+C", function() {
-                top.location.href = "https://quyenkaneki-api.herokuapp.com"
+                top.location.href = "https://imgapicongquyen.herokuapp.com/"
             });
             //]]>
         </script>
@@ -371,7 +371,7 @@
                                         <img src="" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api cadao</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/cadao.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/cadao.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -383,7 +383,7 @@
                                         <img src="" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api thính</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/hearing.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/hearing.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -396,7 +396,7 @@
                                         <img src="https://i.postimg.cc/XYywzsp3/02d4453f3eb0a76a87148433395b3ec3.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh hôn nhau</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/kiss.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/kiss.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -407,7 +407,7 @@
                                         <img src="https://img-cdn.2game.vn/pictures/images/2016/5/30/onehit_30_5_2016_1.GIF" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh đấm nhau</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/punch.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/punch.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -418,7 +418,7 @@
                                         <img src="https://i.postimg.cc/Mc7rWvFv/12334wrwd534wrdf-1.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh tát nhau</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/slap.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/slap.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -430,7 +430,7 @@
                                         <img src="http://kenh14cdn.com/thumb_w/660/2018/7/19/gif-2-15319836727292050186373.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh đá nhau</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/spar.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/spar.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -442,7 +442,7 @@
                                         <img src="https://i.postimg.cc/SNmDKzr1/hinh-anh-co-gai-cute-1-819x1024.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh gái xinh</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/gai.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/gai.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -453,7 +453,7 @@
                                         <img src="https://i.postimg.cc/Y96n0Nm0/Cosplay-SINESTREA-Hinh-Nen-Lien-Quan-Mobile-Gameviet.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh cosplay</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/cosplay.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/cosplay.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -465,7 +465,7 @@
                                         <img src="https://i.postimg.cc/RZHpX2Sy/271889542-634531957885407-4647370421265427089-n.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api video gái xinh tiktok</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/gaixinhtiktok.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/gaixinhtiktok.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div> 
@@ -477,7 +477,7 @@
                                         <img src="https://i.pinimg.com/236x/bc/ed/71/bced71e4fb8e324db89c96a6d846a421.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh meme</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/meme.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/meme.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>   
@@ -489,7 +489,7 @@
                                         <img src="https://i.postimg.cc/nrtX3931/240527720-153472986999489-1827619954791027325-n-18.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh gái đít bự</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/gaiditbu.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/gaiditbu.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>        
@@ -501,7 +501,7 @@
                                         <img src="https://i.postimg.cc/8cVxcYYq/271791583-3239194389700793-316625431648326088-n.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh gái vú to</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/gaivuto.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/gaivuto.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -513,7 +513,7 @@
                                         <img src="https://i.postimg.cc/WbVjPmKd/269499943-1107188526760116-4609825776308771360-n.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh gái sexy</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/gaisexy.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/gaisexy.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>  
@@ -525,7 +525,7 @@
                                         <img src="https://i.postimg.cc/661xKxrd/240527720-153472986999489-1827619954791027325-n-12.gif" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh hentai</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/hentai.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/hentai.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div> 
@@ -537,7 +537,7 @@
                                         <img src="https://i.postimg.cc/yN2RtWnT/Bo-Anh-Nude-Girl-Xinh-Dit-Em-Gai-Vu-Bu-1.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api video sex</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/videosex.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/videosex.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>  
@@ -549,7 +549,7 @@
                                         <img src="https://i.postimg.cc/Qd8FPsJz/868h.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh nude</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/nude.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/nude.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>
@@ -561,7 +561,7 @@
                                         <img src="https://i.postimg.cc/N01tYTKr/006amxlyly1fmpz7md3iqj31jk2bc7wk-1537769329620518488446.jpg" height="55px">
                                         <div>&nbsp;
                                             <h4 class="title title--h4">Api ảnh trai</h4>
-                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://quyenkaneki-api.herokuapp.com/api/trai.php')">COPY</button>
+                                            <button type="button" style="height:30px;width:100px" class="btn btn-primary" onclick="copy('https://imgapicongquyen.herokuapp.com/api/trai.php')">COPY</button>
                                         </div>
                                     </div>
                                 </div>    
